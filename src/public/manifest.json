@@ -1,0 +1,35 @@
+{
+  "name": "T-On",
+  "short_name": "T-On",
+  "description": "Aplicativo de comunicação assistiva para meu irmão Ton",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#DBEAFE",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "categories": ["education", "health", "accessibility"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}

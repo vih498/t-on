@@ -1,0 +1,6 @@
+{
+  "appId": "com.seunome.ton",
+  "appName": "T-On",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
